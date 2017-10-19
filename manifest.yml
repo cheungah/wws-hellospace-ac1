@@ -1,6 +1,6 @@
 ---
 applications:
-- name: wws-hellospace-ro
+- name: wws-hellospace-ac1
   memory: 128M
-  host: wws-hellospace-ro
+  host: wws-hellospace-ac1
   domain: mybluemix.net
